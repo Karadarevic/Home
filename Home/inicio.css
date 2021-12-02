@@ -1,3 +1,7 @@
+body {
+    background-image: url('https://i.gifer.com/2yqT.gif');
+    background-size: cover;
+}
 #menu-trigger {
     width: 30px;
     height: 20px;
