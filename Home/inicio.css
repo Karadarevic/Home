@@ -1,13 +1,8 @@
-body {
-    background-image: url('https://i.gifer.com/2yqT.gif');
-    background-size: cover;
-}
 #menu-trigger {
     width: 30px;
     height: 20px;
     position: absolute;
     top: 10px;
-    margin-left: 20px;
     left: 0;
     cursor: pointer;
     z-index: 1;
@@ -64,7 +59,7 @@ body {
     padding: 1rem;
 }
 
-.text {
+.text-box {
     width: auto;
 	margin: 0 auto;
     text-align: justify;
@@ -78,13 +73,14 @@ body {
 }
 
 .opacity{
-    width: 197px;
+    width: 186px;
     height: 30vh;
     position: absolute;
     top: 16rem;
     background-color: rgb(175 108 173 / 50%);
     z-index: 1;
     border-radius: 5% 5% 5% 5%;
+    left: 5px;
 }
 
 
@@ -119,6 +115,8 @@ body {
 
 body{
     background-color: rgb(42, 42, 71);
+    background-image: url('https://i.gifer.com/2yqT.gif');
+    background-size: cover;
 }
 
 
